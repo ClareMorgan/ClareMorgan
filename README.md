@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ClareMorgan
+- 👀 I’m interested in web design
+- 🌱 I’m currently learning advanced HTML, CSS and Javascript, and React
+- 📫 How to reach me: claredotm@gmail.com or www.linkedin.com/in/-claremorgan
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: My first experience with coding was customising my MySpace page!
