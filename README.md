@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ClareMorgan
+- 👋 Hi, I’m Clare Morgan
 - 👀 I’m interested in web design
 - 🌱 I’m currently learning advanced HTML, CSS and Javascript, and React
 - 📫 How to reach me: claredotm@gmail.com or www.linkedin.com/in/-claremorgan
